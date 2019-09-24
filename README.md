@@ -1,3 +1,5 @@
+![Mendocino Coast Makers Guild](https://raw.githubusercontent.com/mendomakers/mendomakers.github.io/master/images/MCMG_200x200.png)
+
 # Tasks
 A repository to capture tasks people can assign and work
 
@@ -23,7 +25,7 @@ A repository to capture tasks people can assign and work
 ## HowTo Close a Task
 1. Click the Issues link at the top of this repository
 2. Find the task you are working on and click on it
-3. Make sure you're first assigned to the task, if not, use the HowTo Take Ownership of a Task section to assign to yourself
+3. Make sure you're first assigned to the task, if not, use the How To Take Ownership of a Task section to assign to yourself
 4. Add appropriate comments about what actions you have taken
 5. Click Close and Comment
 
@@ -33,3 +35,5 @@ A repository to capture tasks people can assign and work
 3. Find the task you want to reopen and click on it
 4. Add appropriate comments
 5. Click the reopen button
+
+### [Markdown Guide (help for updating this page)](https://guides.github.com/features/mastering-markdown/)
