@@ -1,4 +1,4 @@
-![Mendocino Coast Makers Guild](https://raw.githubusercontent.com/mendomakers/mendomakers.github.io/master/images/MCMG_200x200.png)
+![alt text](https://raw.githubusercontent.com/mendomakers/mendomakers.github.io/master/images/MCMGcolor_transparent200x200.png "Mendocino Coast Makers Guild")
 
 # [Tasks](https://github.com/mendomakers/tasks/issues)
 A repository to capture tasks people can assign and work
